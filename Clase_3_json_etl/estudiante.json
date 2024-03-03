@@ -1,0 +1,14 @@
+{
+    "nombre": "Max",
+    "apellido": "Power",
+    "materias": [
+        {
+            "asignatura": "matematica",
+            "estado": "finalizado"
+        },
+        {
+            "asignatura": "lengua",
+            "estado": "finalizado"
+        }
+    ]
+}
